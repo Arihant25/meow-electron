@@ -1,0 +1,15 @@
+{
+  "name": "electron-stuff",
+  "version": "1.0.0",
+  "description": "A simple Electron app which does nothing much. It's my first Electron app. I made this with the help of a tutorial from www.nodeschool.io.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arihant Tripathy",
+  "license": "MIT",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
